@@ -1,2 +1,2 @@
 # chuckNorris
-This is my first git repository and other stuff
+This is my second change in this file
